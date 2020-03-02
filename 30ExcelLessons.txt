@@ -1,0 +1,30 @@
+1. Excel Four Operators
+2. Excel SUM Function
+3. Excel COUNT Function
+4. Excel AVERAGE Function
+5. Excel MAX MIN Functions
+6. Excel Date Functions
+7. Excel LEN Function
+8. Excel COUNTA Function
+9. Excel ROUND Function
+10. Excel SUMPRODUCT Function
+11. Excel VLOOKUP Function
+12. Excel IF Function
+13. Excel COUNTIF Function
+14. Excel SUMIF Function
+15. Excel IS Functions
+16. Excel CONCATENATE Function
+17. Excel HLOOKUP Function
+18. Excel RIGHT LEFT Functions
+19. Excel Random Functions
+20. Excel IFERROR Function
+21. Excel VLOOKUP (Advanced)
+22. Excel IF AND Combinations
+23. Excel IF OR Combinations
+24. Excel Nested IFs
+25. Excel MATCH Function
+26. Excel INDEX Function
+27. Excel MID Function
+28. Excel OFFSET Function
+29. Excel INDIRECT Function
+30. Excel Array Formulas

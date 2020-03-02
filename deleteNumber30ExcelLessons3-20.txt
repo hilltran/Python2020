@@ -1,0 +1,30 @@
+Excel Four Operators
+Excel SUM Function
+Excel COUNT Function
+Excel AVERAGE Function
+Excel MAX MIN Functions
+Excel Date Functions
+Excel LEN Function
+Excel COUNTA Function
+Excel ROUND Function
+Excel SUMPRODUCT Function
+Excel VLOOKUP Function
+Excel IF Function
+Excel COUNTIF Function
+Excel SUMIF Function
+Excel IS Functions
+Excel CONCATENATE Function
+Excel HLOOKUP Function
+Excel RIGHT LEFT Functions
+Excel Random Functions
+Excel IFERROR Function
+Excel VLOOKUP (Advanced)
+Excel IF AND Combinations
+Excel IF OR Combinations
+Excel Nested IFs
+Excel MATCH Function
+Excel INDEX Function
+Excel MID Function
+Excel OFFSET Function
+Excel INDIRECT Function
+Excel Array Formulas
